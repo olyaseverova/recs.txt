@@ -2,7 +2,6 @@
    "posts": [
      {
        "id": 1,
-       "title": "hello",
        "placements":[
          {
             "strategy_message":"People who viewed this item also viewed",
